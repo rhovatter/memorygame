@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  font-family: Raleway;
+}
+h1 {
+  text-transform: uppercase;
+  font-weight: normal;
+  color: rgb(69,89,102);
+}
+h2 {
+  text-transform: uppercase;
+  font-weight: lighter;
+  color: rgb(69,89,102);
+}
+a {
+  text-transform: uppercase;
+  font-weight: lighter;
+  text-decoration: none;
+  color: orange
+}
+p {
+  font-family: "Droid Serif", serif;
+}
